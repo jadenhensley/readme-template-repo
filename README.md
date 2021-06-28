@@ -1,4 +1,4 @@
-# <Project Name>
+# README.md template
 
 # Usage
 
